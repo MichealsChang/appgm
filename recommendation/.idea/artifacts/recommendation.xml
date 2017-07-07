@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="recommendation">
+    <output-path>$PROJECT_DIR$/out/artifacts/recommendation</output-path>
+    <root id="archive" name="recommendation.jar">
+      <element id="module-output" name="recommendation" />
+    </root>
+  </artifact>
+</component>
